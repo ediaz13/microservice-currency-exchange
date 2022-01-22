@@ -1,4 +1,4 @@
-package com.soma.microservices.currencyexchangeservice.beans;
+package com.soma.microservices.currencyexchangeservice.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
